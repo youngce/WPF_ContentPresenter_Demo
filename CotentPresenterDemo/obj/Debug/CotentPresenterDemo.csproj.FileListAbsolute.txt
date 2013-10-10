@@ -1,0 +1,13 @@
+E:\C#Demo\CotentPresenterDemo\CotentPresenterDemo\bin\Debug\CotentPresenterDemo.exe
+E:\C#Demo\CotentPresenterDemo\CotentPresenterDemo\bin\Debug\CotentPresenterDemo.pdb
+E:\C#Demo\CotentPresenterDemo\CotentPresenterDemo\obj\Debug\MainWindow.baml
+E:\C#Demo\CotentPresenterDemo\CotentPresenterDemo\obj\Debug\MainWindow.g.cs
+E:\C#Demo\CotentPresenterDemo\CotentPresenterDemo\obj\Debug\App.g.cs
+E:\C#Demo\CotentPresenterDemo\CotentPresenterDemo\obj\Debug\CotentPresenterDemo_MarkupCompile.cache
+E:\C#Demo\CotentPresenterDemo\CotentPresenterDemo\obj\Debug\CotentPresenterDemo.g.resources
+E:\C#Demo\CotentPresenterDemo\CotentPresenterDemo\obj\Debug\CotentPresenterDemo.Properties.Resources.resources
+E:\C#Demo\CotentPresenterDemo\CotentPresenterDemo\obj\Debug\CotentPresenterDemo.csproj.GenerateResource.Cache
+E:\C#Demo\CotentPresenterDemo\CotentPresenterDemo\obj\Debug\CotentPresenterDemo.exe
+E:\C#Demo\CotentPresenterDemo\CotentPresenterDemo\obj\Debug\CotentPresenterDemo.pdb
+E:\C# Demo\CotentPresenterDemo\CotentPresenterDemo\obj\Debug\CotentPresenterDemo.exe
+E:\C# Demo\CotentPresenterDemo\CotentPresenterDemo\obj\Debug\CotentPresenterDemo.pdb
